@@ -5,6 +5,6 @@ A LibreOffice Template based on [TufteCSS](https://edwardtufte.github.io/tufte-c
 
 ## Screenshots
 
-![init view](./screenshots/tufte-init.png)
+![init view](screenshots/tufte-init.png)
 
-![preview](./screenshots/tufte-demo.png)
+![preview](screenshots/tufte-demo.png)
