@@ -10,6 +10,11 @@ A LibreOffice Template based on [TufteCSS](https://edwardtufte.github.io/tufte-c
 ![preview](screenshots/tufte-demo.png)
 
 
+## Fonts
+
+This template uses the [ETBook](https://github.com/edwardtufte/et-book) fonts. You probably need to install these too.
+
+
 ## Installation
 
 - Open LibreOffice Impress
